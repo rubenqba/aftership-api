@@ -1,0 +1,13 @@
+{
+  "yaml.schemas": {
+    "file:/Users/rbresler/Library/Application Support/Code/User/globalStorage/amazonwebservices.aws-toolkit-vscode/sam.schema.json": [
+      "template.yaml",
+      "packaged.yaml"
+    ],
+    "file:///Users/rbresler/Library/Application%20Support/Code/User/globalStorage/amazonwebservices.aws-toolkit-vscode/sam.schema.json": [
+      "packaged.yaml",
+      "template.yaml"
+    ],
+    "openapi:v3": "file:///Users/rbresler/develop/gyfted/tracking/aftership-api/postman/schemas/index.yaml"
+  }
+}
