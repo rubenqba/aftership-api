@@ -5,7 +5,7 @@ id = 6508e47e-1657-4e92-b72a-040b179fa5db
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"66c500bd-0eac-4d92-aacd-dbb30f0c1e26","path":"Aftership.json","metaData":{}}
+files[] = {"id":"66c500bd-0eac-4d92-aacd-dbb30f0c1e26","path":"Aftership Tracking API.json","metaData":{}}
 
 [relations.collections.metaData]
 
