@@ -1,10 +1,12 @@
 openapi: 3.0.3
 info:
-  title: API Overview
+  title: Aftership Tracking API
   version: "v4"
   description: |-
-    > OAS Schema can be downloaded [here](https://stoplight.io/api/v1/projects/automizely/docs-api-aftership-com/nodes/reference/api.v4.json?branch=master&deref=optimizedBundle)
-    <div style="visibility:hidden; height: 0">[url](../../docs/quickstart/authentication.md)</div>
+    AfterShip Tracking helps eCommerce businesses to update and manage their shipment with efficiency.
+    You can seamlessly manage tracking with AfterShip's Tracking API and use AfterShip's post-purchase 
+    services from the admin portal. Or you can store the tracking data through API and webhook, and 
+    customize the post-purchase services yourself.
   contact:
     name: AfterShip Support
     url: https://www.aftership.com/contact-us
